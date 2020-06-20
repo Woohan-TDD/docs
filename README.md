@@ -28,7 +28,7 @@
 
 
 
-## PR 확인진행방법.detail
+## PR 진행방법.detail
 ![pr1](./img/pr1.JPG)
 1. 본인의 Origin 저장소인지 확인한다.
 2. new pull request 버튼을 누른다.
